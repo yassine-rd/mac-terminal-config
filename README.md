@@ -2,7 +2,9 @@
 
 In this repository I'll be sharing exactly how I setup my mac terminal to look amazing and get a much better experience. We'll be using iTerm2, zsh, Oh-My-Zsh, Powerlevel10k as the macOS terminal theme and some other cool plugins!
 
-I do pretty much all of my software development work inside the terminal, so It's important for me to have a pleasant terminal window to look at or work with.
+![Terminal Mockup](https://github.com/yassine-rd/mac-terminal-config/blob/master/images/terminal-mockup.png)
+
+> I do pretty much all of my software development work inside the terminal, so It's important for me to have a pleasant terminal window to look at or work with.
 
 ## Install Homebrew
 
